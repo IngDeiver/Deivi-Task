@@ -1,9 +1,9 @@
-###¿Que es DeiviTask?
+### ¿Que es DeiviTask?
 DeiviTask es una aplicación para organizar notas o tareas por hacer de una forma rápida y sencilla priorizando la simplicidad del proceso
 
-###¿Porque se creo ?
+### ¿Porque se creo ?
 Soy de esas personas que le gusta apuntar todos sus pendiente para que no se les quede nada y tener las tareas por hacer de forma organizada, antes de crear DeiviTask, apuntaban todo en block de notas, lo cual me funcionaba pero decidí aplicar mis conocimientos en el desarrollo de aplicaciones y este fue el resultado.
-###Características
+### Características
 - Deslizar para eliminar
 - Única fuente de datos local
 -	Interfaz intuitiva
